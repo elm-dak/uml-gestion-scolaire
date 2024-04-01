@@ -1,25 +1,25 @@
-# Creating Conception UML for a project school management system
+# Système de Gestion Scolaire avec Conception UML
 
- This web application will allow students to request school certificates and transcripts. 
- The application administrator will be responsible for validating requests
+Cette application web permettra aux étudiants de demander des Attestation et des relevés de notes scolaires. 
+L'administrateur de l'application sera responsable de la validation des demandes.
 
-## Table of Contents
+## Table des matières
 
-- [UML Diagrams](#uml-diagrams)
-  use case diagram
+- [Diagrammes UML](#diagrammes-uml)
+  - Diagramme de cas d'utilisation
+  - Diagramme de classe
+  - Diagramme de séquence
+    - Demander une Attestation
+    - Demander un Relevé de notes
 
-  class diagram
-
-  sequence diagram
-   - Demnder Attestaion
-   - Demnder Relver de note
-     
 - [Installation](#installation)
+   ```bash
    git clone https://github.com/elm-dak/uml.git
+
 
 - [Contributing](#contributing)
     By Dakouky El Mestapha
-       ElYoussofi Younesse 
+       ElYoussoufi Younesse 
 
 
 
